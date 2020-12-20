@@ -1,0 +1,16 @@
+To Run this project you have to Turbo C++ compiler because i compeleted this project on turbo c ++
+Step 1 Install Turbo C++ 
+
+Step 2 Then copy all the files 
+       (i)QWE.c
+       (ii)DEMOSSS.txt
+       (iii)password
+step 3  then goto BIN location of Turbo C++ like this  "C:\TurboC4\TC\BIN"  and paste the all files.
+
+Step 4  You need to remember the username and the password.
+        Username ="rahul"
+        password=password save in password.txt file plese check the password from password.txt file
+Step 5 Now you able to run this project
+Step 6 If you enjoy this project please like my github profile 
+    
+Thanks for view my Work!
